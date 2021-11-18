@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608501951 source:c:\users\acer\desktop\studia\algorytmy i struktury danych\al6.3\main.cpp
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<bits/stdc++.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1604410989 source:c:\code bloks\zadanie al3.2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1604595919 source:c:\users\acer\desktop\studia\algorytmy i struktury danych\quicksort zadanie al3.5\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

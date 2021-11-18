@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1603204730 source:c:\code bloks\heapsort asd zad2.5\main.cpp
+	<fstream>
+	<iostream>
+	<stdio.h>
+
+1603803279 source:c:\users\acer\desktop\studia\algorytmy i struktury danych\heapsort asd zad2.5\main.cpp
+	<fstream>
+	<iostream>
+	<stdio.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1606833388 source:c:\code bloks\al5.1\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1606834940 source:c:\users\acer\desktop\studia\algorytmy i struktury danych\al5.1\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
