@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620684365 source:c:\users\acer\desktop\studia\algorytmy i struktury danych\as9.2\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

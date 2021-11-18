@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616499107 source:c:\code bloks\as3.2\main.cpp
+	<iostream>
+	<cstdlib>
+
